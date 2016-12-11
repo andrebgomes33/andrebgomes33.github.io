@@ -1,0 +1,32 @@
+h1{
+	color: #bb3f0d;
+	text-align: center;}
+body{
+	background-color:#9bf1a9;
+}
+p{
+	font-size: 20px;
+	color: black;}
+h1{
+	font-size: 40px}
+/* this is how you leave comments in CSS. General structure is WHO {WHAT: HOW;}*/
+h1{
+	border: 10px purple;
+	border-style: inset;
+}
+.container{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2{
+	border-bottom: double;
+}
+.rocket{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+body {
+    background-image: url("../img/rocket.jpg");
+}
